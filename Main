@@ -7,4 +7,7 @@ return {
   ["TesterKey-z12l243bu7"] = "Inactive", -- ["eb3a4bb4-e348-11ef-91a8-806e6f6e6963"] = "TesterKey-z12l243bu7",
 
   ["4b30fc7e5cc3d8920c60462ca72db013ea599397361ab972f1e420ba1e73256a"] = "GiveawayKey-1xl9521gv5n",
+
+  -- Lifetime
+  ["0"] = "CH-LFT-81kaoq1039l",
 }
