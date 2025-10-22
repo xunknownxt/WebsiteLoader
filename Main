@@ -28,4 +28,7 @@ return {
   ["CH-LFT-2xz3l54cx1"] = "CH-LFT-2xz3l54cx1",
   ["5c5891666fa5022897161c6ddb2ca044861ebde579acb5a9f98454c3122a629b"] = "CH-LFT-jai822lao1",
   ["CH-LFT-12x341z124vc"] = "CH-LFT-12x341z124vc",
+
+  -- Tester
+  ["0"] = "Inactive",
 }
