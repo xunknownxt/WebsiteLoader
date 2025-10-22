@@ -21,11 +21,5 @@ return {
   ["31f5bcc8-2c5e-11f0-be5e-806e6f6e6963"] = "CH-LFT-la83js920jsa",["a2dca8f5651100bd8a37b3c2d130ad862f3d08c4050099b4b7c263f5e67ae7d9"] = "CH-M-1241jz1azak2",
   ["f5204287-45f6-11f0-98f5-806e6f6e6963"] = "CH-M-l0282jwiwp",
 
-  -- Lifetime
-  ["CH-LFT-2xz3l54cx1"] = "CH-LFT-2xz3l54cx1",
-  ["5c5891666fa5022897161c6ddb2ca044861ebde579acb5a9f98454c3122a629b"] = "CH-LFT-jai822lao1",
-  ["CH-LFT-12x341z124vc"] = "CH-LFT-12x341z124vc",
-
-  -- Tester
-  ["0"] = "Inactive",
+  ["0"] = "CH-M-23q47ybvy",
 }
