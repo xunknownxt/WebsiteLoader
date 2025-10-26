@@ -28,4 +28,7 @@ return {
   ["0"] = "CH-M-1241jz1azak2",
   ["0"] = "CH-M-l0282jwiwp",
   ["0"] = "CH-M-3ql32b1n69136",
+
+  -- Lifetime
+  ["0"] = "CH-LFT-a8qk028jai9",
 }
