@@ -8,8 +8,11 @@ return {
 
   ["4b30fc7e5cc3d8920c60462ca72db013ea599397361ab972f1e420ba1e73256a"] = "GiveawayKey-1xl9521gv5n",
 
-  ["aa03ee7b-a27d-11f0-8a85-806e6f6e6963"] = "CH-LFT-a8qk028jai9",
   ["476b62c3e262cecdbb20d160d76a4b769f0ec3a4bb50c5c40a3eb8e5b0a40beb"] = "CH-LFT-323c46b2362356",
+  ["758a6b812e82d3ae684f61cc4a3d758cf67900580b9e4f57a526caa5c52fbfa0"] = "CH-LFT-9k18ha028hd81",
+  ["a2d5e8b7-de5a-11eb-8d94-806e6f6e6963"] = "CH-LFT-kl12x4j9126bg3",
+  ["aa03ee7b-a27d-11f0-8a85-806e6f6e6963"] = "CH-LFT-a8qk028jai9",
+  ["0"] = "CH-LFT-xae131x54153",
   ["0"] = "CH-LFT-ewrtn8742367c",
   ["0"] = "CH-LFT-05xcwed74b5",
   ["0"] = "CH-LFT-875mj124c45",
@@ -26,10 +29,6 @@ return {
   ["5c5891666fa5022897161c6ddb2ca044861ebde579acb5a9f98454c3122a629b"] = "CH-LFT-jai822lao1",
   ["abd03482-ac13-11f0-8c19-806e6f6e6963"] = "CH-LFT-81kaoq1039l",
 
-  ["0"] = "CH-M-1241jz1azak2",-- Lifetime
-  ["0"] = "CH-LFT-xae131x54153",
+  ["0"] = "CH-M-1241jz1azak2",
   ["0"] = "CH-M-23q47ybvy",
-  ["0"] = "CH-LFT-1xo24k1ltbk",
-  ["758a6b812e82d3ae684f61cc4a3d758cf67900580b9e4f57a526caa5c52fbfa0"] = "CH-LFT-9k18ha028hd81",
-  ["a2d5e8b7-de5a-11eb-8d94-806e6f6e6963"] = "CH-LFT-kl12x4j9126bg3",
 }
