@@ -27,10 +27,7 @@ return {
   ["abd03482-ac13-11f0-8c19-806e6f6e6963"] = "CH-LFT-81kaoq1039l",
 
   ["0"] = "CH-M-1241jz1azak2",
-  ["0"] = "CH-M-l0282jwiwp",
-  ["0"] = "CH-M-3ql32b1n69136",
-
-  -- Lifetime
+  ["0"] = "CH-M-l0282jwiwp",-- Lifetime
   ["0"] = "CH-LFT-xae131x54153",
   ["0"] = "CH-LFT-xae13",
   ["0"] = "CH-LFT-1xo24k1ltbk",
