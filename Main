@@ -32,5 +32,5 @@ return {
   ["0"] = "CH-M-1241jz1azak2",
 
   -- Lifetime
-  ["0"] = "CH-LFT-k12xc315v",
+  ["887AE763DF4F2B616DCEB9A416A86FE2AF464E553B2D240CB83554533614BCD1"] = "CH-LFT-k12xc315v",
 }
