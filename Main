@@ -15,6 +15,7 @@ return {
 
   ["0"] = "Inactive",
   ["0"] = "Inactive",
+  ["0"] = "Inactive",
   -- Lifetime
   ["0"] = "CH-LFT-1h24b5VQ15",
 }
