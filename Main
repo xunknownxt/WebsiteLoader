@@ -8,5 +8,6 @@ return {
   ["aa03ee7b-a27d-11f0-8a85-806e6f6e6963"] = "CH-LFT-1h24b5VQ15",
 
   -- Lifetime
+  ["0"] = "CH-LFT-123b616x124v",
   ["0"] = "CH-LFT-92jao19akQO",
 }
