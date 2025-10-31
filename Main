@@ -10,4 +10,5 @@ return {
 
   -- Tester
   ["0"] = "Inactive",
+  ["0"] = "Inactive",
 }
