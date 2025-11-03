@@ -21,4 +21,7 @@ return {
   ["0"] = "CH-M-u456j2v1365",
   ["0"] = "CH-M-13b7123c45",
   ["0"] = "CH-M-245n713rc6",
+
+  -- Lifetime
+  ["0"] = "CH-LFT-4q57n24wcv",
 }
