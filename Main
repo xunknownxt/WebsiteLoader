@@ -26,5 +26,6 @@ return {
   ["3b50a3b1f7298a4d40f7a5488bbf1d4f233aeb7ed72821c6ffe5d728bedcbc8b7b70df669bc9c8666d54db670807b92f"] = "CH-LFT-4q57n24wcv",
 
   -- Tester
+  ["TesterKey-x122qcew15"] = "Inactive",
   ["TesterKey-314kv63245"] = "Inactive",
 }
