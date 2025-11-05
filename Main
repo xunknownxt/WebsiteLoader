@@ -3,6 +3,11 @@ return {
 
   ["TesterKey-1j9136vj913"] = "Inactive", -- ["fee809ed7421ae895d6285adf343b78c5752dcb7b86f97d10b2b22d3de35d2e7"] = "TesterKey-1j9136vj913"
   ["TesterKey-x122qcew15"] = "Inactive", -- ["72183eb6d41661570582af4df6d4ef2b01866e685f4d53"] = "TesterKey-x122qcew15"
+  ["TesterKey-35r6nert7v3"] = "Inactive",
+  ["TesterKey-2v34g7n235"] = "Inactive",
+  ["TesterKey-45c1211b66"] = "Inactive",
+  ["TesterKey-314kv63245"] = "Inactive",
+  ["TesterKey-q23b557b4"] = "Inactive",
 
   ["4b30fc7e5cc3d8920c60462ca72db013ea599397361ab972f1e420ba1e73256a"] = "GiveawayKey-8j71jao27ja",
 
@@ -23,10 +28,4 @@ return {
   ["0"] = "CH-M-13b7123c45",
   ["0"] = "CH-M-245n713rc6",
   ["0"] = "CH-M-13w345mn8",
-
-  ["TesterKey-35r6nert7v3"] = "Inactive",
-  ["TesterKey-2v34g7n235"] = "Inactive",
-  ["TesterKey-45c1211b66"] = "Inactive",
-  ["TesterKey-314kv63245"] = "Inactive",
-  ["TesterKey-q23b557b4"] = "Inactive",
 }
