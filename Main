@@ -20,4 +20,7 @@ return {
   ["0"] = "CH-LFT-jnK26EHx0",
   ["0"] = "CH-LFT-zm40Aeo0Y",
   ["0"] = "CH-LFT-2qg73FK082qH",
+
+  -- Tester
+  ["TesterKey-0"] = "Inactive",
 }
