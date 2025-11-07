@@ -21,4 +21,7 @@ return {
   ["9e7a55b48d3f785cc25534460cac5592d91ca41563155bedf498a4b09b51298f"] = "CH-LFT-3c1n423c2",
 
   ["a2d5e8b7-de5a-11eb-8d94-806e6f6e6963"] = "CH-LFT-n683m5347",
+
+  -- Giveaway
+  ["0"] = "GiveawayKey-8j71jao27ja",
 }
