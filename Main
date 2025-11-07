@@ -26,4 +26,7 @@ return {
   ["0"] = "CH-LFT-123b613v5k1",
   ["0"] = "CH-LFT-3c1n423c2",
   ["0"] = "CH-LFT-4q57n24wcv",
+
+  -- Tester
+  ["TesterKey-1j9136vj913"] = "Inactive",
 }
