@@ -22,5 +22,6 @@ return {
   ["a2d5e8b7-de5a-11eb-8d94-806e6f6e6963"] = "CH-LFT-n683m5347",
 
   -- Lifetime
+  ["0"] = "CH-LFT-3c1n423c2",
   ["0"] = "CH-LFT-4q57n24wcv",
 }
