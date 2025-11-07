@@ -20,12 +20,4 @@ return {
   ["887AE763DF4F2B616DCEB9A416A86FE2AF464E553B2D240CB83554533614BCD1"] = "CH-LFT-12c5V12xXA",
   ["9e7a55b48d3f785cc25534460cac5592d91ca41563155bedf498a4b09b51298f"] = "CH-LFT-3c1n423c2",
   ["a2d5e8b7-de5a-11eb-8d94-806e6f6e6963"] = "CH-LFT-k1v235kkjzx",
-
-  -- Lifetime
-  ["0"] = "CH-LFT-j325c213q46j",
-
-  -- Tester
-  ["TesterKey-34n5682v354"] = "Inactive",
-  ["TesterKey-32x141bn345"] = "Inactive",
-  ["TesterKey-1345nb7c23v46"] = "Inactive",
 }
