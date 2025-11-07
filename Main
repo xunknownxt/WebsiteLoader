@@ -21,6 +21,5 @@ return {
   ["0"] = "CH-LFT-zm40Aeo0Y",
   ["0"] = "CH-LFT-2qg73FK082qH",
 
-  -- Giveaway
-  ["0"] = "GiveawayKey-8js0k1lt62aj",
+  ["4b30fc7e5cc3d8920c60462ca72db013ea599397361ab972f1e420ba1e73256a"] = "GiveawayKey-8js0k1lt62aj",
 }
