@@ -23,4 +23,5 @@ return {
 
   -- Tester
   ["TesterKey-0"] = "Inactive",
+  ["TesterKey-0"] = "Inactive",
 }
