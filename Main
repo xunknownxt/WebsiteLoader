@@ -23,4 +23,7 @@ return {
 
   -- Lifetime
   ["0"] = "CH-LFT-j325c213q46j",
+
+  -- Tester
+  ["TesterKey-1345nb7c23v46"] = "Inactive",
 }
