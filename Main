@@ -24,5 +24,5 @@ return {
   ["0"] = "CH-LFT-2qg73FK082qH",
 
   -- Monthly
-  ["0"] = "CH-M-jk3q41v64r",
+  ["fee809ed7421ae895d6285adf343b78c5752dcb7b86f97d10b2b22d3de35d2e7"] = "CH-M-jk3q41v64r",
 }
