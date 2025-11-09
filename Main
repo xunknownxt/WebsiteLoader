@@ -25,4 +25,7 @@ return {
 
   -- Monthly
   ["fee809ed7421ae895d6285adf343b78c5752dcb7b86f97d10b2b22d3de35d2e7"] = "CH-M-jk3q41v64r",
+
+  -- Tester
+  ["TesterKey-9CTLCT199Z"] = "Inactive",
 }
