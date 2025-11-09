@@ -1,6 +1,9 @@
 return {
   ["0fa09a0f85adf37bdbfa176285dde31b8d75d8b8c55300cb97d29e690f63ee17f423d9e11305f9247277d5c493fd5054"] = "clixcks",
 
+  ["TesterKey-BKYZ0WTNA3"] = "Inactive",
+  ["TesterKey-9CTLCT199Z"] = "Inactive",
+
   ["4b30fc7e5cc3d8920c60462ca72db013ea599397361ab972f1e420ba1e73256a"] = "GiveawayKey-8js0k1lt62aj",
 
   ["0fa09a0f85adf37bdbfa176285dde31b8d75d8b8c55300cb97d29e690f63ee17f423d9e11305f9247277d5c493fd5054"] = "CH-LFT-k2j31m4b62",
@@ -23,10 +26,5 @@ return {
   ["0"] = "CH-LFT-zm40Aeo0Y",
   ["0"] = "CH-LFT-2qg73FK082qH",
 
-  -- Monthly
   ["fee809ed7421ae895d6285adf343b78c5752dcb7b86f97d10b2b22d3de35d2e7"] = "CH-M-jk3q41v64r",
-
-  -- Tester
-  ["TesterKey-BKYZ0WTNA3"] = "Inactive",
-  ["TesterKey-9CTLCT199Z"] = "Inactive",
 }
