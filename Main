@@ -33,5 +33,5 @@ return {
   ["0"] = "CH-LFT-2CI03GUXLR",
 
   -- Monthly
-  ["0"] = "CH-M-UPQDOMHPU4",
+  ["eef448493d710c4df11fe80b109b48f26e8a7e5461041b81fe78ca46fbfe275f"] = "CH-M-UPQDOMHPU4",
 }
