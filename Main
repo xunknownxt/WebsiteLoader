@@ -31,4 +31,7 @@ return {
 
   -- Lifetime
   ["0"] = "CH-LFT-2CI03GUXLR",
+
+  -- Monthly
+  ["0"] = "CH-M-UPQDOMHPU4",
 }
