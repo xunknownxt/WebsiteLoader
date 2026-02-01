@@ -40,4 +40,7 @@ return {
   -- Monthly
   ["E454723B564DFDBE562E709D386AC2"] = "CH-M-94K7ZUDLV1",
   ["4670397ac000a234"] = "CH-M-E4MN4TYLKG",
+
+  -- Lifetime
+  ["0"] = "CH-LFT-FAD5F8D725",
 }
