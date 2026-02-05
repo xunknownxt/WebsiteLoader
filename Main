@@ -49,4 +49,7 @@ return {
 
   -- Lifetime
   ["0"] = "CH-LFT-JRPCNPX8F6",
+
+  -- Giveaway
+  ["0"] = "GiveawayKey-IT3W0DDOJ6",
 }
