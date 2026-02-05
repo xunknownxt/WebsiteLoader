@@ -46,4 +46,7 @@ return {
 
   -- Tester
   ["TesterKey-V0V900KTL3"] = "Inactive",
+
+  -- Lifetime
+  ["0"] = "CH-LFT-JRPCNPX8F6",
 }
