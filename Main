@@ -50,5 +50,6 @@ return {
   -- Lifetime
 
   -- Giveaway
+  ["0"] = "GiveawayKey-4G7O65TWOD",
   ["0"] = "GiveawayKey-V7BXS0PH7Y",
 }
