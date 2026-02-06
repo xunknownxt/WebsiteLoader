@@ -46,4 +46,7 @@ return {
 
   -- Monthly
   ["0"] = "CH-M-PAV8JSP2R7",
+
+  -- Lifetime
+  ["0"] = "CH-LFT-JF9ZAW9JZI",
 }
