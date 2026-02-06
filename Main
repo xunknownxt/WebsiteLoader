@@ -47,4 +47,8 @@ return {
   -- Monthly
   ["0"] = "CH-M-PAV8JSP2R7",
 
-  -- Lifetime}
+  -- Lifetime
+
+  -- Giveaway
+  ["0"] = "GiveawayKey-V7BXS0PH7Y",
+}
