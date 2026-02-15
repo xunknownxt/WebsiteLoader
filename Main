@@ -47,7 +47,7 @@ return {
   -- Monthly
   ["0"] = "CH-M-PAV8JSP2R7",
 
-  ["0"] = "CH-M-CA3A73A720",
+  ["ebc0fa0a43024f02a0a78ecedd1404350b5d2dab32e0abfa5346509102269da1"] = "CH-M-CA3A73A720",
   -- Lifetime
 
   -- Giveaway
