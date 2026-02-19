@@ -6,9 +6,7 @@ return {
   -- ["TesterKey-BKYZ0WTNA3"] = "Inactive",
   -- ["TesterKey-9CTLCT199Z"] = "Inactive",
   -- ["TesterKey-VKZVW3D5KL"] = "Inactive",
-  -- ["TesterKey-M3K8FNS4HQ"] = "Inactive",
-  ["0"] = "TesterKey-VKZVW3D5KL",
-  ["3044f6eac11559ccc3cec27be5edbd1ae3015b41918452c1e10bc0ed7130ba73"] = "TesterKey-M3K8FNS4HQ",
+  -- ["TesterKey-M3K8FNS4HQ"] = "Inactive",["3044f6eac11559ccc3cec27be5edbd1ae3015b41918452c1e10bc0ed7130ba73"] = "TesterKey-M3K8FNS4HQ",
   ["aa956e25fe507a10048d98a05877a374368b2cb2b92684f583c01456e2798d08"] = "TesterKey-BKYZ0WTNA3",
   ["a6560326-481e-11f0-a3eb-806e6f6e6963"] = "TesterKey-9CTLCT199Z",
 
