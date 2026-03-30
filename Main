@@ -43,4 +43,7 @@ return {
   ["4670397ac000a234"] = "CH-M-E4MN4TYLKG",
   ["0"] = "CH-M-PAV8JSP2R7",
   ["0"] = "CH-M-X375CY7JEU",
+
+  -- Tester
+  ["Tester-WHNUGVJZJ0"] = "Inactive",
 }
