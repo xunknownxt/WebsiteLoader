@@ -48,4 +48,5 @@ return {
 
   -- Lifetime
   ["CH-LFT-7B78449542"] = "0",
+  ["CH-LFT-7B78449542"] = "0",
 }
