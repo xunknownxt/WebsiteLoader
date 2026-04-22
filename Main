@@ -46,7 +46,5 @@ return {
   ["CH-M-PAV8JSP2R7"] = "0",
   ["CH-M-X375CY7JEU"] = "0",
 
-  -- Lifetime
   ["CH-LFT-7B78449542"] = "7b0ff09f8fa582b68bfedd9dd9bc77cda821fe4fc6f5397da0f284a6380609f3e97a62f0d23b3ce1db548cc37cc1efd9ac2704cd2f02341e0a07b173af71535d",
-  ["CH-LFT-7B78449542"] = "0",
 }
