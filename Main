@@ -51,4 +51,5 @@ return {
   -- Lifetime
   ["CH-LFT-2MN95XI436"] = "0",
   ["CH-LFT-ADKG656PU6"] = "0",
+  ["CH-LFT-JLXOMC843T"] = "4b30fc7e5cc3d8920c60462ca72db013ea599397361ab972f1e420ba1e73256a",
 }
